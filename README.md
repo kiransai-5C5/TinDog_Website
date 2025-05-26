@@ -25,8 +25,9 @@ TinDog/
 
 site is live at https://kiransai-5c5.github.io/TinDog_Website/
 
-## 📩 Contact
--Feel free to reach out for collaboration, questions, or feedback:
--👨‍💻 Developer: Kovvuru Kiran Sai
--📧 Email: wrangler434@gmail.com
--🌐 LinkedIn: Kiran Sai's Profile
+## 📞 Contact  
+Feel free to reach out for collaboration, questions, or feedback:  
+👨‍💻 Developer: Kovvuru Kiran Sai  
+✉️ Email: wrangler434@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/kiran-sai-66021a2b0
+

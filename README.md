@@ -23,9 +23,7 @@ TinDog/
 
 ## 🚀 How to Run Locally
 
-1. **Clone the repository:**
-
-git clone
+site is live at https://kiransai-5c5.github.io/TinDog_Website/
 
 ## 📩 Contact
 -Feel free to reach out for collaboration, questions, or feedback:
